@@ -8,7 +8,7 @@
     "start:prod": "node ./build/server.js"
   },
   "devDependencies": {
-    "@adonisjs/assembler": "^5.3.0",
+
     "adonis-preset-ts": "^2.1.0",
     "eslint": "^7.27.0",
     "eslint-config-prettier": "^8.3.0",
@@ -20,6 +20,7 @@
     "youch-terminal": "^1.1.1"
   },
   "dependencies": {
+    "@adonisjs/assembler": "^5.3.0",
     "@adonisjs/auth": "^5.1.1",
     "@adonisjs/core": "^5.1.8",
     "@adonisjs/lucid": "^10.0.0",
